@@ -1,6 +1,6 @@
 
 
-#UI for WSOC2022 shiny app
+#UI side
 
 
 library(stringr)
